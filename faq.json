@@ -1,0 +1,59 @@
+{
+    "faqs": [
+        {
+            "id": 1,
+            "question": "What is the basic requirement to join the army training?",
+            "answer": "The basic requirement includes being a national of the country, meeting the age and educational qualifications, and passing the physical and medical examinations."
+        },
+        {
+            "id": 2,
+            "question": "How long does the basic training last?",
+            "answer": "Basic training typically lasts between 8 to 12 weeks, depending on the specific military branch and country."
+        },
+        {
+            "id": 3,
+            "question": "Are there any fitness requirements for entry into the army training program?",
+            "answer": "Yes, applicants must meet specific fitness standards which include a variety of physical fitness tests."
+        },
+        {
+            "id": 4,
+            "question": "Can women enroll in army training centers?",
+            "answer": "Yes, women are eligible to enroll in army training centers, with equal access to all training programs and opportunities."
+        },
+        {
+            "id": 5,
+            "question": "What types of training programs are available?",
+            "answer": "There are various programs available including basic training, advanced infantry training, officer training, sniper training, cyber defense, and specialized warfare training among others."
+        },
+        {
+            "id": 6,
+            "question": "Is there an age limit for enrolling in the army training center?",
+            "answer": "Yes, the age limit varies by country but typically ranges from 17 to 35 years with parental consent required for applicants under the age of 18."
+        },
+        {
+            "id": 7,
+            "question": "What kind of career opportunities are available after completing training?",
+            "answer": "Successful completion of army training opens up a wide range of career opportunities within the military, including combat roles, technical positions, and leadership roles."
+        },
+        {
+            "id": 8,
+            "question": "Are there any educational programs offered during the training?",
+            "answer": "Yes, many army training centers offer educational programs, including leadership development, technical skills training, and even college degree programs."
+        },
+        {
+            "id": 9,
+            "question": "What support services are available for trainees?",
+            "answer": "Support services include medical care, psychological counseling, and career advising to assist trainees during and after their training period."
+        },
+        {
+            "id": 10,
+            "question": "Can international applicants join the army training?",
+            "answer": "This depends on the country's military policies; some countries allow international applicants while others do not."
+        },
+        {
+            "id": 11,
+            "question": "What is the policy on leave during training?",
+            "answer": "Leave policies vary by training center, but typically trainees may be granted leave for family emergencies and special circumstances."
+        }
+    ]
+}
