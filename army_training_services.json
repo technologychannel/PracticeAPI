@@ -1,0 +1,59 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "name": "British Army Basic Training",
+            "description": "This course provides fundamental military skills, discipline, and leadership training essential for every soldier in the British Army."
+        },
+        {
+            "id": 2,
+            "name": "Indian Army Officer Training",
+            "description": "A comprehensive program designed to equip future officers of the Indian Army with the necessary tactical, technical, and physical skills."
+        },
+        {
+            "id": 3,
+            "name": "Combat Fitness Training",
+            "description": "Focused on enhancing the physical capabilities of soldiers to meet the demanding nature of military operations."
+        },
+        {
+            "id": 4,
+            "name": "Advanced Infantry Tactics",
+            "description": "Advanced training for infantry soldiers, focusing on high-level tactics, survival skills, and modern warfare technology."
+        },
+        {
+            "id": 5,
+            "name": "Parachute Training",
+            "description": "Specialized training for airborne operations, including jump procedures, aerial navigation, and landing techniques."
+        },
+        {
+            "id": 6,
+            "name": "Jungle Warfare Course",
+            "description": "This course trains soldiers to operate and survive in jungle environments, emphasizing guerrilla tactics and survival skills."
+        },
+        {
+            "id": 7,
+            "name": "Mountain Warfare Training",
+            "description": "Prepares troops for combat in mountainous and high-altitude areas, focusing on mobility, survival, and combat skills."
+        },
+        {
+            "id": 8,
+            "name": "Desert Warfare Training",
+            "description": "Equips soldiers with the skills needed to operate effectively in desert environments, including navigation and vehicle operation under extreme conditions."
+        },
+        {
+            "id": 9,
+            "name": "Cyber Defense Course",
+            "description": "A specialized course designed to train personnel in cyber security, focusing on protecting military networks and conducting cyber operations."
+        },
+        {
+            "id": 10,
+            "name": "Sniper Training Program",
+            "description": "Trains selected soldiers in long-range target engagement, reconnaissance, and survival skills in various environments."
+        },
+        {
+            "id": 11,
+            "name": "Naval Special Operations Training",
+            "description": "Training for specialized naval operations, including underwater demolition, amphibious assault, and boarding operations."
+        }
+    ]
+}
