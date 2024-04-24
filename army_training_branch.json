@@ -1,0 +1,37 @@
+{
+    "headOffice": {
+        "location": "Chauthe – Pokhara, Chauthe, Kaski, Nepal",
+        "telephone": "061-534070",
+        "mobile": "+977-9851314001",
+        "email": "salutegorkha@gmail.com"
+    },
+    "branchOffices": [
+        {
+            "id": 1,
+            "location": "Basundhara, Kathmandu",
+            "telephone": "01-4985975",
+            "mobile": "9851314002"
+        },
+        {
+            "id": 2,
+            "location": "Satdobato, Lalitpur",
+            "mobile": "9851314003"
+        },
+        {
+            "id": 3,
+            "location": "Ghorahi – Main Road, Dang",
+            "telephone": "082-563278",
+            "mobile": "9851314005"
+        },
+        {
+            "id": 4,
+            "location": "Kalikanagar, Butwal",
+            "mobile": "9804438831, 9851314006"
+        },
+        {
+            "id": 5,
+            "location": "Bharatpur, Chitwan",
+            "mobile": "9827543476, 9851314007"
+        }
+    ]
+}
